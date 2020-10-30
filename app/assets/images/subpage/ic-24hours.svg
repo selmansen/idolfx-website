@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="_002-wall-clock" width="70" height="70" viewBox="0 0 70 70">
+    <defs>
+        <style>
+            .cls-1{fill:#e41469}
+        </style>
+    </defs>
+    <g id="Group_3135">
+        <g id="Group_3134">
+            <path id="Path_9982" d="M35 0a35 35 0 1 0 35 35A35.04 35.04 0 0 0 35 0zm0 64.891A29.891 29.891 0 1 1 64.891 35 29.925 29.925 0 0 1 35 64.891z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_3137" transform="translate(30.742 17.117)">
+        <g id="Group_3136">
+            <path id="Path_9983" d="M241.037 143.08h-11.071v-15.328a2.555 2.555 0 1 0-5.109 0v17.883a2.555 2.555 0 0 0 2.555 2.555h13.625a2.555 2.555 0 1 0 0-5.109z" class="cls-1" transform="translate(-224.857 -125.197)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="windows-logo-silhouette" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_3120">
+        <path id="Path_9968" d="M0 258.041l9.017 1.243v-8.607H0z" class="cls-1" transform="translate(0 -239.069)"/>
+        <path id="Path_9969" d="M0 47.257h9.017v-8.713L0 39.787z" class="cls-1" transform="translate(0 -36.759)"/>
+        <path id="Path_9970" d="M216.129 259.413l11.992 1.652v-10.391h-11.992z" class="cls-1" transform="translate(-206.121 -239.066)"/>
+        <path id="Path_9971" d="M216.132 1.653V10.5h11.991V0z" class="cls-1" transform="translate(-206.123)"/>
+    </g>
+</svg>
