@@ -10378,6 +10378,7 @@ option, optgroup {
 
 .why-forex_content .currency-img {
   max-width: 375px;
+  width: 100%;
   margin: auto;
   display: block; }
 
