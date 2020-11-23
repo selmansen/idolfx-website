@@ -2402,6 +2402,7 @@ option, optgroup { -webkit-appearance: none; }
                 margin-left: -15px;
                 @media screen and(max-width:$screenlg){
                     max-width: 600px;
+                    width:100%;
                 }
                 @media screen and(max-width:$screenmd){
                     max-width: 500px;

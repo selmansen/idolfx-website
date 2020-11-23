@@ -10908,7 +10908,8 @@ option, optgroup {
     margin-left: -15px; }
     @media screen and (max-width: 1199px) {
       .about-main_content--mt4 .imac {
-        max-width: 600px; } }
+        max-width: 600px;
+        width: 100%; } }
     @media screen and (max-width: 1023px) {
       .about-main_content--mt4 .imac {
         max-width: 500px;
